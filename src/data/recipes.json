@@ -1,0 +1,268 @@
+[
+    {
+        "title": "French Toast",
+        "preparationTime": 15,
+        "album": "Breakfast",
+        "difficulty": "Easy",
+        "portions": 2,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "Gently heat the maple syrup and blueberries in a saucepan until the berries start to pop and release their juices, then set them to one side in the pan. Whisk the flour, almonds, cinnamon, milk and vanilla together in a shallow bowl.\n\nHeat a little oil in a frying pan. Dip a slice of bread into the milk mixture, shake off any excess and fry the bread on both sides until it browns and crisps at the edges. \n\nKeep the slices warm in a low oven as you cook the rest. Serve with the blueberries spooned over and dust with icing sugar."
+    },
+    {
+        "title": "Avocado Toast",
+        "preparationTime": 10,
+        "album": "Breakfast",
+        "difficulty": "Easy",
+        "portions": 2,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "In a small bowl, combine avocado, lemon juice, salt, and pepper. Gently mash with the back of a fork.\n\nTop toasted bread with mashed avocado mixture. Drizzle with olive oil and sprinkle over desired toppings.\n\nFor perfect avocado toast, ingredient quality is key. Use fresh, crusty whole-wheat bread and the best extra-virgin olive oil you can find."
+    },
+    {
+        "title": "Bean and Rice Burritos",
+        "preparationTime": 45,
+        "album": "Dinner",
+        "difficulty": "Easy",
+        "portions": 2,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "In a large bowl, toss together cooked rice and fresh chopped cilantro, and drizzle with a bit of fresh lime juice. Heat in the microwave or on the stove just until hot, and give it a quick stir.\n\nIn a separate large skillet, sauté the garlic and onion in vegetable oil or olive oil for 2 to 3 minutes, or until the onion is soft.\n\nReduce the heat to medium-low and add the black beans or pinto beans and season with the chili powder, cumin, and hot sauce, stirring to combine. You can add a bit of salt if you'd like, but you shouldn't need too much with all the other seasonings. Allow the beans to cook until heated through, about 5 minutes.\n\nSpoon the cilantro-lime rice and the black bean mix onto lightly warmed flour tortillas, and add any additional toppings you want.\n\nWrap the burritos: Fold the short ends in, then fold one long side over the filling and gently push to ensure the fold is tight before rolling up the remainder of the burrito.\n\nCut in half, and serve immediately."
+    },
+    {
+        "title": "Granola",
+        "preparationTime": 25,
+        "album": "Breakfast",
+        "difficulty": "Medium",
+        "portions": 2,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "Heat oven to 180C/160C fan/gas 4. Line two large baking trays with baking parchment. Mix all the ingredients together except the maple syrup. Spread the granola out on the trays and drizzle over the maple syrup.\n\nHeat a little oil in a frying pan. Dip a slice of bread into the milk mixture, shake off any excess and fry the bread on both sides until it browns and crisps at the edges. \n\nKeep the slices warm in a low oven as you cook the rest. Serve with the blueberries spooned over and dust with icing sugar.\n"
+    },
+    {
+        "title": "Pulled Jackfruit",
+        "preparationTime": 15,
+        "album": "Lunch",
+        "difficulty": "Medium",
+        "portions": 4,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "Heat the oil in a frying pan and cook the onion until very soft, for around 10-12 mins. Add the cinnamon, cumin and paprika to the onions and cook for a further 2-3 mins. Next add the Tabasco, vinegar and bbq sauce and mix well before adding in the tomato, the drained jackfruit and 200ml water. \n\nLeave to simmer gently, covered, for 30 mins stirring every 5-10 mins to help break down the jackfruit, then take the lid off and cook a further 10 minutes.\n\nOnce cooked, use a fork to make sure all of the jackfruit is well shredded. Check seasoning and add another tbsp of bbq sauce if necessary for extra stickiness."
+    },
+    {
+        "title": "Stuffed Peppers",
+        "preparationTime": 40,
+        "album": "Dinner",
+        "difficulty": "Easy",
+        "portions": 2,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "Heat the oven to 200C/180C fan/gas 6. Tip the passata into an ovenproof dish that is large enough to hold the peppers while still keeping some room around the edges. Stir the chilli flakes, half of the garlic and half of the olives through the passata and season. Sit the pepper halves on top of the passata mixture, cut-side up, and bake for 20 mins.\n\nMeanwhile, tip the rice into a bowl and loosen with a fork or your hands until the grains are separated. Add the remaining olives and the roughly chopped tomato. Carefully spoon the rice mixture into the cooked peppers (don’t worry about any juices that have collected in the bottom – these will soak into the rice). Stir any leftover rice through the passata mixture around the peppers, then return to the oven and bake for a further 10 mins, or until the rice is heated through.\n\nCombine the remaining garlic, the finely chopped tomato, basil, pine nuts and olive oil. Drizzle the dressing over the peppers, then serve with a green salad on the side."
+    },
+    {
+        "title": "Banana Pancakes",
+        "preparationTime": 20,
+        "album": "Dessert",
+        "difficulty": "Easy",
+        "portions": 3,
+        "ingredients": [
+            {
+                "name": "flour",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "cinnamon",
+                "quantity": "2 tbsp"
+            },
+            {
+                "name": "oat milk",
+                "quantity": "200ml"
+            },
+            {
+                "name": "blueberries",
+                "quantity": "150g"
+            },
+            {
+                "name": "icing sugar",
+                "quantity": "for dusting"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "3 tbsp"
+            },
+            {
+                "name": "white bread",
+                "quantity": "6 slices"
+            }
+        ],
+        "instructions": "Mash the banana in a mixing bowl. Stir in the sugar, salt and oil. Add the flour and baking powder and mix thoroughly. Make a well in the centre and gradually whisk in the milk. The batter should be a thick, droppable consistency. \n\nHeat a little oil in a frying pan over a medium heat. Add 2 tbsp of the batter to make American-style pancakes. You will be able to make about 4-5 at a time. Fry on each side for 2-3 mins until golden. Serve with syrup, sliced banana and berries, if you like. "
+    }
+]
