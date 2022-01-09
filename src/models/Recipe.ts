@@ -4,14 +4,14 @@ enum Difficulty {
   HARD = 'HARD',
 }
 
-interface Ingredient {
+export interface Ingredient {
   name: string;
   quantity: string;
 }
 
 export interface Recipe {
   title: string;
-  portions?: number;
+  portions?: number | 2;
   preparationTime?: number | 0;
   ingredients?: Ingredient[];
   directions?: string;
